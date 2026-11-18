@@ -1,0 +1,18 @@
+/candidates/
+/runs/
+/internal/
+!/internal/
+/internal/*
+!/internal/mutations/
+!/internal/mutations/**
+/node_modules/
+/dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.zip
+.DS_Store
+
+# Candidate runs are local benchmarking artifacts and should not be committed.
+/benchmarking-candidates/

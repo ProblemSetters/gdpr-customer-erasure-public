@@ -1,0 +1,7 @@
+candidates/
+reference_solution/
+hidden_tests/
+calibration/
+node_modules/
+dist/
+.git/
